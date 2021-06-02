@@ -1,0 +1,43 @@
+div {
+  margin: auto;
+  width: 50%;
+  background: rgb(255, 255, 255);
+  text-overflow: ellipsis;
+}
+.zw {
+  float: left;
+  width: 60%;
+  height: 200px;
+  text-overflow: ellipsis;
+}
+
+.tp {
+  float: left;
+  width: 40%;
+  height: 200px;
+  text-overflow: ellipsis;
+}
+img {
+  margin-top: 20px;
+  width: 254px;
+  height: 153px;
+  text-overflow: ellipsis;
+}
+p {
+  font-size: 30px;
+  text-overflow: ellipsis;
+}
+.jb {
+  font-size: 20px;
+  color: gray;
+  text-overflow: ellipsis;
+}
+.app {
+  margin: 40px 5px 5px 160px;
+  border: 1px solid red;
+  border-radius: 20px;
+  padding: 5px;
+  font-style: red;
+  font-size: 20px;
+  text-overflow: ellipsis;
+}
